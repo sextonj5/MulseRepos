@@ -55,7 +55,7 @@
 /b/beer_hall 54 a
 /b/berth 55 o
 /b/biology_laboratory 56 o
-/b/boardwalk 57 o
+/b/boardwalk 57 a
 /b/boat_deck 58 o
 /b/boathouse 59 o
 /b/bookstore 60 a
